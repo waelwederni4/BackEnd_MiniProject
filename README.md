@@ -38,9 +38,9 @@ BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
 
 ## Development server
 <br>
-1)cd ` BackEnd_MiniProject `
+cd ` BackEnd_MiniProject `
 <br>
-2)Run ` npm start `
+Run ` npm start `
 <br>
-3)Navigate to ` http://localhost:3000/ `.
+Navigate to ` http://localhost:3000/ `.
 
