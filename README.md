@@ -12,11 +12,11 @@ FrontEnd : https://github.com/waelwederni4/FrontEnd_MiniProject
 <br>
 BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
 # Development server
-`cd  BackEnd_MiniProject `
+1) `cd  BackEnd_MiniProject `
 <br>
-`Run  npm start `
+2) `Run  npm start `
 <br>
-`Navigate to  http://localhost:3000/ `.
+3) `Navigate to  http://localhost:3000/ `.
 # ScreenShots
 ![Annotation 2020-11-10 162159](https://user-images.githubusercontent.com/38885637/98706508-34e25900-237f-11eb-9357-c7ca1758b77f.png)
 
