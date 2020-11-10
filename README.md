@@ -4,7 +4,7 @@
 
 This is a part BackEnd NodeJs of Project Project angular 10 crud application example with web api
 # MiniProject
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+This project was generated with [Node Js](https://github.com/nodejs) version v12.16.0.
 <br>
 This is a Project angular 10 crud application example with web api With server Backend Nodejs :
 <br>
