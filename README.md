@@ -11,6 +11,12 @@ This is a Project angular 10 crud application example with web api With server B
 FrontEnd : https://github.com/waelwederni4/FrontEnd_MiniProject
 <br>
 BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
+# Development server
+`cd  BackEnd_MiniProject `
+<br>
+`Run  npm start `
+<br>
+`Navigate to  http://localhost:3000/ `.
 # ScreenShots
 ![Annotation 2020-11-10 162159](https://user-images.githubusercontent.com/38885637/98706508-34e25900-237f-11eb-9357-c7ca1758b77f.png)
 
@@ -35,12 +41,3 @@ BackEnd  : https://github.com/waelwederni4/BackEnd_MiniProject
 <br>
 # Delete All produit
 `DELETE - /api/produits`
-
-## Development server
-<br>
-`cd  BackEnd_MiniProject `
-<br>
-`Run  npm start `
-<br>
-`Navigate to  http://localhost:3000/ `.
-
